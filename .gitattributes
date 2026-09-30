@@ -1,0 +1,8 @@
+# Generated on 2026-11-15
+# Exclude build artifacts
+*.min.css linguist-generated
+* text=auto
+static/* linguist-vendored
+
+**/*.py linguist-detectable
+*.html linguist-vendored
