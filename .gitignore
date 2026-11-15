@@ -1,0 +1,9 @@
+.tox/
+build/
+.coverage
+.mypy_cache/
+.venv/
+venv/
+env/
+*.py[cod]
+__pycache__/
